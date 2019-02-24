@@ -8,3 +8,4 @@
 * [Day 03](https://github.com/wiltrahan/30_Days_Of_Code/blob/master/conditional_statements.java)
 * [Day 04](https://github.com/wiltrahan/30_Days_Of_Code/blob/master/class_vs_instance.java)
 * [Day 05](https://github.com/wiltrahan/30_Days_Of_Code/blob/master/loops.java)
+* [Day 06](https://github.com/wiltrahan/30_Days_Of_Code/blob/master/review.java)
