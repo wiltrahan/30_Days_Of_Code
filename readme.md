@@ -9,3 +9,4 @@
 * [Day 04](https://github.com/wiltrahan/30_Days_Of_Code/blob/master/class_vs_instance.java)
 * [Day 05](https://github.com/wiltrahan/30_Days_Of_Code/blob/master/loops.java)
 * [Day 06](https://github.com/wiltrahan/30_Days_Of_Code/blob/master/review.java)
+* [Day 07](https://github.com/wiltrahan/30_Days_Of_Code/blob/master/arrays.java)
