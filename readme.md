@@ -1,5 +1,5 @@
 # HackerRank 30 Days of Code
-[HackerRank 30 Days of Code](https://www.hackerrank.com)
+[HackerRank](https://www.hackerrank.com)
 
 * [Day 00](https://github.com/wiltrahan/30_Days_Of_Code/blob/master/hello_world.java)
 * [Day 01](https://github.com/wiltrahan/30_Days_Of_Code/blob/master/data_types.java)
@@ -13,3 +13,4 @@
 * [Day 09](https://github.com/wiltrahan/30_Days_Of_Code/blob/master/recursion.java)
 * [Day 10](https://github.com/wiltrahan/30_Days_Of_Code/blob/master/binary_numbers.java)
 * [Day 11](https://github.com/wiltrahan/30_Days_Of_Code/blob/master/2D_arrays.java)
+* [Day 12](https://github.com/wiltrahan/30_Days_Of_Code/blob/master/inheritance.java)
