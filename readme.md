@@ -1,7 +1,7 @@
 # HackerRank 30 Days of Code
 [HackerRank](https://www.hackerrank.com)
 
-* [Day 00 - Hello World](https://github.com/wiltrahan/30_Days_Of_Code/blob/hello_world/hello_world.java)
+* [Day 00 - Hello World](https://github.com/wiltrahan/30_Days_Of_Code/tree/hello_world)
 * [Day 01 - Data Types](https://github.com/wiltrahan/30_Days_Of_Code/blob/data_types/data_types.java)
 * [Day 02 - Operators](https://github.com/wiltrahan/30_Days_Of_Code/blob/operators/operators.java)
 * [Day 03 - Conditional Statements](https://github.com/wiltrahan/30_Days_Of_Code/blob/conditional_statements/conditional_statements.java)
