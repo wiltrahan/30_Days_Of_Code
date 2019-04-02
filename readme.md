@@ -27,3 +27,4 @@
 * [Day 23 - BTS Level-Order Traversal](https://github.com/wiltrahan/30_Days_Of_Code/tree/level_order_traversal)
 * [Day 24 - More Linked Lists](https://github.com/wiltrahan/30_Days_Of_Code/tree/more_linked_lists)
 * [Day 25 - Running Time and Complexity](https://github.com/wiltrahan/30_Days_Of_Code/tree/Running_Time_And_Complexity)
+* [Day 26 - Nested Logic](https://github.com/wiltrahan/30_Days_Of_Code/tree/nested_logic)
