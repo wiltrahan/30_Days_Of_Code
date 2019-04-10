@@ -29,3 +29,4 @@
 * [Day 25 - Running Time and Complexity](https://github.com/wiltrahan/30_Days_Of_Code/tree/Running_Time_And_Complexity)
 * [Day 26 - Nested Logic](https://github.com/wiltrahan/30_Days_Of_Code/tree/nested_logic)
 * [Day 27 - Testing](https://github.com/wiltrahan/30_Days_Of_Code/tree/testing)
+* [Day 28 - RegEx, Patterns, Intro to Databases](https://github.com/wiltrahan/30_Days_Of_Code/tree/regEx_patterns_dbs)
