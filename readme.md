@@ -30,3 +30,4 @@
 * [Day 26 - Nested Logic](https://github.com/wiltrahan/30_Days_Of_Code/tree/nested_logic)
 * [Day 27 - Testing](https://github.com/wiltrahan/30_Days_Of_Code/tree/testing)
 * [Day 28 - RegEx, Patterns, Intro to Databases](https://github.com/wiltrahan/30_Days_Of_Code/tree/regEx_patterns_dbs)
+* [Day 29 - Bitwise AND](https://github.com/wiltrahan/30_Days_Of_Code/tree/Bitwise_AND)
